@@ -1,0 +1,2 @@
+# thynC
+thynC Dashboard
